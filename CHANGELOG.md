@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Created a changelog from the git history with help from [auto-changelog](https://www.npmjs.com/package/auto-changelog). It could probably use cleanup!
 
+### Changed
+- Remove composer dev-monorepo hack.
+
 ## 1.0.1 - 2021-03-04
 
 - Initial version.
