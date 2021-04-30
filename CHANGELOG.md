@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Remove composer dev-monorepo hack.
+- Updated package dependencies.
 - Update package dependencies.
 
 ## 1.0.1 - 2021-03-04
