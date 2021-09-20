@@ -9,6 +9,7 @@
 	},
 	"repositories": [],
 	"minimum-stability": "dev",
+	"prefer-stable": true,
 	"extra": {
 		"mirror-repo": "Automattic/jetpack-debug-helper",
 		"version-constants": {

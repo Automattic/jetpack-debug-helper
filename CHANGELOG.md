@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies
 
+### Fixed
+- Set `prefer-stable: true` in composer.json.
+
 ## [1.1.0] - 2021-08-26
 ### Added
 - Broken Token: Add clear current user token functionality.
