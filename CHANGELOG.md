@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update package dependencies
 
+### Removed
+- Rmove the unusaed jetpack_idc_option transient from the UI
+
 ### Fixed
 - Set `prefer-stable: true` in composer.json.
 
