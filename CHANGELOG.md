@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added an IDC simulator module to Debug Helper.
+- IDC Simulatore: add the ability to spoof the home option value
 
 ### Changed
 - Updated package dependencies.
