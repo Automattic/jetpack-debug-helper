@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added an IDC simulator module to Debug Helper.
 - Display the IDC option values (sync_error_idc, migrate_for_idc, and safe_mode_confirmed)
 - IDC Simulator: add setting to enable and disable Sync
+- IDC Simulator: display the last five remote requests
 - IDC Simulatore: add the ability to spoof the home option value
 
 ### Changed
