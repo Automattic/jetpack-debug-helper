@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add a Sync Data Settings page, which displays the data settings provided by each Sync data filter.
+- IDC Simulator: Display an admin notice when the module disables Sync
 
 ### Changed
 - Updated package dependencies
