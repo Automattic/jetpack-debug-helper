@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - IDC Simulator: Display an admin notice when the module disables Sync
 
 ### Changed
+- Updated composer.lock file.
 - Updated package dependencies
 - Updated package dependencies
 - Updated package dependencies
