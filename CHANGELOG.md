@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added the Autoloader debugger helper to the Debug tool.
 
+### Changed
+- PHPCS: Fix `WordPress.Security.ValidatedSanitizedInput`
+
 ## [1.3.0] - 2022-03-01
 ### Added
 - Add a Sync Data Settings page, which displays the data settings provided by each Sync data filter.
