@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added several enhancements to the Autoloader debugger module that make debugging easier.
 - Added the Autoloader debugger helper to the Debug tool.
+- Add Protect helper module
 - Debug helper plugin: Add debug helper page for Jetpack modules.
 
 ### Changed
