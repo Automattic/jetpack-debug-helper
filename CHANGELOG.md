@@ -5,12 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.4.1-alpha] - unreleased
+## [1.5.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added threat descriptions.
+- Replace "XML-RPC errors" with "connection errors", add error type ("xml-rpc" or "rest") to generated errors.
 
 ## [1.4.0] - 2022-07-06
 ### Added
@@ -67,7 +68,7 @@ This is an alpha version! The changes listed here are not final.
 
 - Initial version.
 
-[1.4.1-alpha]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.4.0...v1.4.1-alpha
+[1.5.0-alpha]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.4.0...v1.5.0-alpha
 [1.4.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.1.0...v1.2.0
