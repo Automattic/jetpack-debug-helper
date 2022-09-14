@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added a helper module for Jetpack Scan.
 - Added threat descriptions.
+- Mocker tool: add runner to add rows in the WAF log DB table for blocked requests
 - Replace "XML-RPC errors" with "connection errors", add error type ("xml-rpc" or "rest") to generated errors.
 
 ## [1.4.0] - 2022-07-06
