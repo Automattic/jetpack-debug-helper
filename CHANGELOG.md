@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 - Mocker tool: add runner to add rows in the WAF log DB table for blocked requests
 - Replace "XML-RPC errors" with "connection errors", add error type ("xml-rpc" or "rest") to generated errors.
 
+### Fixed
+- Prevented the threat tester from being identified as a threat due to containing the Akismet suspicious link URL.
+
 ## [1.4.0] - 2022-07-06
 ### Added
 - Added the Autoloader debugger helper to the Debug tool. [#23726]
