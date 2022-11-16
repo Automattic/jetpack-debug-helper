@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Remove pre-defined prefix in the REST API tool.
+- Updated Protect Helper to use newly added data source constant.
 
 ### Fixed
 - Prevented the threat tester from being identified as a threat due to containing the Akismet suspicious link URL.
