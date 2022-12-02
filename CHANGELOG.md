@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add a button to set the current primary user.
 - Added a helper module for Jetpack Scan.
 - Added threat descriptions.
 - Mocker tool: add runner to add rows in the WAF log DB table for blocked requests
