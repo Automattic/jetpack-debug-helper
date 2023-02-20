@@ -4,16 +4,16 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d045a279f8e641e291af376604e305a4",
+    "content-hash": "fe85ebc1e26e9712c239344f42095272",
     "packages": [],
     "packages-dev": [
         {
             "name": "automattic/jetpack-changelogger",
-            "version": "3.3.1",
+            "version": "3.3.2-alpha",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-changelogger",
-                "reference": "7ee876e11f567a65def61dbc63e3b9e486f3c184"
+                "reference": "a2a974cd91d86dd258f49693d916bdfbf07421ea"
             },
             "require": {
                 "php": ">=5.6",
@@ -57,9 +57,6 @@
             "scripts": {
                 "phpunit": [
                     "./vendor/phpunit/phpunit/phpunit --colors=always"
-                ],
-                "test-coverage": [
-                    "php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/clover.xml\""
                 ],
                 "test-php": [
                     "@composer phpunit"
