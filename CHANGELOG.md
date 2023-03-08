@@ -5,24 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.5.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.5.0] - 2023-03-08
 ### Added
-- Add "Cookie State Faker" tool.
-- Add a button to set the current primary user.
-- Added a helper module for Jetpack Scan.
-- Added threat descriptions.
-- Mocker tool: add runner to add rows in the WAF log DB table for blocked requests
-- Replace "XML-RPC errors" with "connection errors", add error type ("xml-rpc" or "rest") to generated errors.
+- Add "Cookie State Faker" tool. [#28371]
+- Add a button to set the current primary user. [#26562]
+- Added a helper module for Jetpack Scan. [#25641]
+- Added threat descriptions. [#25266]
+- Mocker tool: add runner to add rows in the WAF log DB table for blocked requests [#25645]
+- Replace "XML-RPC errors" with "connection errors", add error type ("xml-rpc" or "rest") to generated errors. [#25694]
 
 ### Changed
-- Remove pre-defined prefix in the REST API tool.
-- Updated Protect Helper to use newly added data source constant.
+- Remove pre-defined prefix in the REST API tool. [#26521]
+- Updated package dependencies.
+- Updated Protect Helper to use newly added data source constant. [#26069]
 
 ### Fixed
-- Prevented the threat tester from being identified as a threat due to containing the Akismet suspicious link URL.
+- Prevented the threat tester from being identified as a threat due to containing the Akismet suspicious link URL. [#26192]
 
 ## [1.4.0] - 2022-07-06
 ### Added
@@ -79,7 +77,7 @@ This is an alpha version! The changes listed here are not final.
 
 - Initial version.
 
-[1.5.0-alpha]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.4.0...v1.5.0-alpha
+[1.5.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.1.0...v1.2.0
