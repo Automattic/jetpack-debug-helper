@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add a helper for the WAF
 
+### Changed
+- Remove deprecated core function in favor of direct query.
+
 ## [1.5.0] - 2023-03-08
 ### Added
 - Add "Cookie State Faker" tool. [#28371]
