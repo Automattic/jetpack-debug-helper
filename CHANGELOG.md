@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Remove deprecated core function in favor of direct query.
 
+### Fixed
+- Fixed stylesheet loading and content for the broken-token and idc-simulator modules.
+
 ## [1.5.0] - 2023-03-08
 ### Added
 - Add "Cookie State Faker" tool. [#28371]
