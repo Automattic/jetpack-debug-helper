@@ -4,16 +4,16 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ffdc131c50a65f0d50fab07b53dc523f",
+    "content-hash": "3f3b571a6020fb5ed00eba195c2c36fa",
     "packages": [],
     "packages-dev": [
         {
             "name": "automattic/jetpack-changelogger",
-            "version": "3.3.2",
+            "version": "3.3.4",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-changelogger",
-                "reference": "7fd0a8a6d13e572da29e50db2e76d454019ac6c4"
+                "reference": "5d1c4d030710473f8106b1bd7483dd20be54d1e2"
             },
             "require": {
                 "php": ">=5.6",
@@ -72,6 +72,12 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Jetpack Changelogger tool. Allows for managing changelogs by dropping change files into a changelog directory with each PR.",
+            "keywords": [
+                "changelog",
+                "cli",
+                "dev",
+                "keepachangelog"
+            ],
             "transport-options": {
                 "relative": false
             }
