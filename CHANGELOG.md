@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Fix PHP 8.2 deprecation warnings.
+
 ## [1.6.0] - 2023-06-06
 ### Added
 - Add a helper for the WAF
