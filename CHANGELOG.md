@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add brute force protection access for particular environments that do not support the WAF
 
 ### Changed
+- Code Modernization: Replace usage of strpos() with str_contains()
 - Code Modernization: Replace usage of strpos() with str_starts_with().
 - General: updated PHP requirement to PHP 7.0+
 - Updated package dependencies.
