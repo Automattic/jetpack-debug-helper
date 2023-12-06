@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add brute force protection access for particular environments that do not support the WAF
+- Added XML-RPC logger module
 
 ### Changed
 - Code Modernization: Replace usage of strpos() with str_contains()
