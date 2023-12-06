@@ -4,16 +4,16 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "65853c6194fe49c80def29f77225a69f",
+    "content-hash": "9f48c36587a80e815d24c9cf04f3be9f",
     "packages": [],
     "packages-dev": [
         {
             "name": "automattic/jetpack-changelogger",
-            "version": "4.0.4",
+            "version": "4.0.5-alpha.1701883615",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-changelogger",
-                "reference": "19c615cf7a6319fdb78aa351e0bfa66a60b8893f"
+                "reference": "f3d611ed8ad1b2be1519a1f8c11e196cefe99083"
             },
             "require": {
                 "php": ">=7.0",
@@ -21,7 +21,7 @@
                 "symfony/process": "^3.4 || ^4.4 || ^5.2 || ^6.0"
             },
             "require-dev": {
-                "wikimedia/testing-access-wrapper": "^1.0 || ^2.0",
+                "wikimedia/testing-access-wrapper": "^1.0 || ^2.0 || ^3.0",
                 "yoast/phpunit-polyfills": "1.1.0"
             },
             "bin": [
