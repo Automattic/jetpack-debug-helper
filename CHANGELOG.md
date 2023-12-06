@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fix PHP 8.2 deprecation warnings.
+- Resort to error_log if l() is not available
 
 ## [1.6.0] - 2023-06-06
 ### Added
