@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Code Modernization: Replace usage of strpos() with str_contains()
 - Code Modernization: Replace usage of strpos() with str_starts_with().
+- Comment: Added price as default sorting option for Jetpack Search
 - General: updated PHP requirement to PHP 7.0+
 - Updated package dependencies.
 
