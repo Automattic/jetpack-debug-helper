@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- REST API: restrict access to authenticated site admins
+
 ## [2.0.0] - 2024-02-07
 ### Added
 - Add brute force protection access for particular environments that do not support the WAF [#31761]
