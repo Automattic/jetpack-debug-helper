@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Added exception for new IDC REST endpoint.
+
 ### Changed
 - Updated package dependencies.
 
