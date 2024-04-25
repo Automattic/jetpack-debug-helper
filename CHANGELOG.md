@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added exception for new IDC REST endpoint.
 
 ### Changed
+- General: use wp_admin_notice function introduced in WP 6.4 to display notices.
 - Updated package dependencies.
 
 ### Fixed
