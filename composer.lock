@@ -4,16 +4,16 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "35a67f9283fba0a2ee935d05091af759",
+    "content-hash": "20fef63e059fd09992637c7fe55f3446",
     "packages": [],
     "packages-dev": [
         {
             "name": "automattic/jetpack-changelogger",
-            "version": "4.2.3",
+            "version": "4.2.4-alpha.1715954493",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-changelogger",
-                "reference": "058cd99b23813c36a33358c2bf46b8d1818dfa2b"
+                "reference": "efe4e0eefc6d044a720e770e3aec93b5cf9b43b6"
             },
             "require": {
                 "php": ">=7.0",
