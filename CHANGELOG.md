@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Actually call `e.preventDefault()` in various 'click' handlers.
+
 ## [2.0.1] - 2024-05-20
 ### Changed
 - General: Use wp_admin_notice function introduced in WP 6.4 to display notices. [#37051]
