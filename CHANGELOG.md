@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Actually call `e.preventDefault()` in various 'click' handlers.
+- Fix WPCOM request counter for repeated requests.
 
 ## [2.0.1] - 2024-05-20
 ### Changed
