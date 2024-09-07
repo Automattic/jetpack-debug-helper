@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add a button to clear IDC options.
 - Add Broken XMLRPC module.
 - Jetpack Debug: Extend Scan Helper to provide more functionality around creating different types of threats to test with.
 
