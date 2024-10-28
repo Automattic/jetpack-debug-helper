@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Jetpack Debug: Extend Scan Helper to provide more functionality around creating different types of threats to test with.
 
 ### Changed
+- Scan Helper: Update fuzzy hash sample to be bigger in size.
 - Updated package dependencies.
 
 ### Fixed
