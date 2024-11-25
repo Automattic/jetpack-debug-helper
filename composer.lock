@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d331c2de1cea030fd67020ec9f7b3f51",
+    "content-hash": "67d93d21870491c120bb9351db709b02",
     "packages": [],
     "packages-dev": [
         {
             "name": "automattic/jetpack-changelogger",
-            "version": "5.1.0-alpha.1732209287",
+            "version": "5.1.0-alpha.1732548032",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-changelogger",
-                "reference": "e2aa5f287b5430542a09a14af50610137b75d4a7"
+                "reference": "a915196ca39ecb33bcd84f44950c2152e3a3cca3"
             },
             "require": {
-                "php": ">=7.2",
-                "symfony/console": "^3.4 || ^4.4 || ^5.2 || ^6.0 || ^7.0",
-                "symfony/process": "^3.4 || ^4.4 || ^5.2 || ^6.0 || ^7.0"
+                "php": ">=7.2.5",
+                "symfony/console": "^5.4 || ^6.4 || ^7.1",
+                "symfony/process": "^5.4 || ^6.4 || ^7.1"
             },
             "require-dev": {
                 "wikimedia/testing-access-wrapper": "^1.0 || ^2.0 || ^3.0",
