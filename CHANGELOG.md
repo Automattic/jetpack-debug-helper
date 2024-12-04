@@ -5,22 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.1.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.1.0] - 2024-12-04
 ### Added
-- Add a button to clear IDC options.
-- Add Broken XMLRPC module.
-- Jetpack Debug: Extend Scan Helper to provide more functionality around creating different types of threats to test with.
+- Add a button to clear IDC options. [#39283]
+- Add Broken XMLRPC module. [#39261]
+- Jetpack Debug: Extend Scan Helper to provide more functionality around creating different types of threats to test with. [#37990]
 
 ### Changed
-- Scan Helper: Update fuzzy hash sample to be bigger in size.
-- Updated package dependencies.
+- Scan Helper: Update fuzzy hash sample to be bigger in size. [#39750]
+- Updated package dependencies. [#37767] [#38228] [#38822] [#39288] [#39653] [#40116]
 
 ### Fixed
-- Actually call `e.preventDefault()` in various 'click' handlers.
-- Fix WPCOM request counter for repeated requests.
+- Actually call `e.preventDefault()` in various 'click' handlers. [#39057]
+- Fix WPCOM request counter for repeated requests. [#39219]
 
 ## [2.0.1] - 2024-05-20
 ### Changed
@@ -130,7 +127,7 @@ This is an alpha version! The changes listed here are not final.
 
 - Initial version.
 
-[2.1.0-alpha]: https://github.com/Automattic/jetpack-debug-helper/compare/v2.0.1...v2.1.0-alpha
+[2.1.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v2.0.1...v2.1.0
 [2.0.1]: https://github.com/Automattic/jetpack-debug-helper/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.6.0...v2.0.0
 [1.6.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v1.5.0...v1.6.0
