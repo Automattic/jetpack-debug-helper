@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Code: Use function-style exit() and die() with a default status code of 0.
 - Updated package dependencies.
 
+### Fixed
+- Code: Remove extra params on function calls.
+
 ## [2.1.0] - 2024-12-04
 ### Added
 - Add a button to clear IDC options. [#39283]
