@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Code: Update stylesheets to use hex instead of named colors.
 - Code: Update stylesheets to use WordPress font styles.
+- Linting: Do additional stylesheet cleanup.
 
 ## [2.2.0] - 2025-04-04
 ### Added
