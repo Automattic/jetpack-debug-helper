@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update package dependencies.
+
 ### Fixed
 - Code: Update stylesheets to use hex instead of named colors.
 - Code: Update stylesheets to use WordPress font styles.
