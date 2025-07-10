@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- Fix JS in Broken Token tool.
+
 ## [2.2.1] - 2025-06-05
 ### Changed
 - Update package dependencies. [#43425]
