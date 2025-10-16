@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Jetpack Debug Tools
  * Description: Give me a Jetpack connection, and I'll break it every way possible.
- * Author: Automattic - Jetpack Crew
+ * Author: Automattic
  * Version: 2.2.4-alpha
  * Text Domain: jetpack
  *
