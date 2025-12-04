@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- Ensure proper flags are used with `json_encode()`.
+
 ## [2.2.3] - 2025-10-09
 ### Changed
 - Update package dependencies. [#44725] [#45096]
