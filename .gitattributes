@@ -1,2 +1,6 @@
+# Automatically generated rules.
+/.git*	export-ignore
+
+# Package attributes file.
 # Files not needed in the production build.
 /changelog/**    production-exclude
