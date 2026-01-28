@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update package dependencies.
+
 ## [2.2.4] - 2026-01-08
 ### Changed
 - Replace use of confusing `esc_js` on an integer value with `intval`. [#46229]
