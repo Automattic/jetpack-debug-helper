@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Social Helper: Add a module to simulate Jetpack Social connection and service edge cases.
 
 ### Changed
+- Broken Token: Use the connection error factory when generating sample connection errors.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Update package dependencies.
 
