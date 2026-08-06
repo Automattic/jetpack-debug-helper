@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Package Provenance: Add a module showing which runtime serves each WordPress package on the current screen.
 - Social Helper: Add a module to simulate Jetpack Social connection and service edge cases.
 
 ### Changed
