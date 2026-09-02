@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Broken Token: Use the connection error factory when generating sample connection errors.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
+- Package Provenance: describe when the polyfills replace an already registered script module.
 - Update package dependencies.
 
 ### Fixed
