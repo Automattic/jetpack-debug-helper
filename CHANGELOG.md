@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.1-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Fixed
+- Protect: Restore status overrides, add a status that simulates a scan that didn't complete, and add an option to fail the Scan History fetch.
+
 ## [2.3.0] - 2026-10-14
 ### Added
 - Package Provenance: Add a module showing which runtime serves each WordPress package on the current screen. [#50995]
@@ -185,6 +192,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial version.
 
+[2.3.1-alpha]: https://github.com/Automattic/jetpack-debug-helper/compare/v2.3.0...v2.3.1-alpha
 [2.3.0]: https://github.com/Automattic/jetpack-debug-helper/compare/v2.2.5...v2.3.0
 [2.2.5]: https://github.com/Automattic/jetpack-debug-helper/compare/v2.2.4...v2.2.5
 [2.2.4]: https://github.com/Automattic/jetpack-debug-helper/compare/v2.2.3...v2.2.4
